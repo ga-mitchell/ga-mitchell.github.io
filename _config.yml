@@ -21,12 +21,12 @@ repository               : "ga-mitchell.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "he/him"
+  avatar           : "profile.jpeg"
+  name             : "he/him/his"
   pronouns         : # example: "she/her"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Lone Star College System"
+  location         : "Houston, TX"
+  employer         : "Lone Star College System & Alvin Community College"
   uri              : # URL
   email            : "gamitchell@proton.me"
 
