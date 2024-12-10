@@ -14,39 +14,47 @@ Education
 * Masters of Science in Physics, University of Texas at Dallas, 2022
 * Bachelors of Science in Physics, Purdue University, 2020
 
-Work Experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-2022: Dark Energy Spectroscopic Instrument (DESI)
+- Used the publicly available python code BAO_Fitter_dev to fit the Baryon Acoustic
+Oscillation (BAO) of the Power Spectra of the eBOSS DR12 spectroscopic data using python and made edits to perform a chi-squared minimization.
+- Measured power spectra on the NERSC Cori HPC using mock data for the upcoming
+DESI spectroscopic survey for use by the collaboration using the python package PyPower and performed reconstruction using PyRecon.
+- Performed fits of the BAO feature on the NERSC Cori HPC of these power spectra using the publicly available code BARRY and presented the results to the
+collaboration
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022: CMB Machine Learning
+  * Provided physics expertise in collaboration with the computer science department to create a code that uses spherical CNN to clean data from astrophysical surveys such as the PLANCK mission.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-2020: Research Assistant
+- Used Python to analyze data from a cosmological simulation to study the distribution of protocluster galaxies and how such distributions might appear in real observational data.
+- Designed a gaussian convolution smoothing function to visualize the data and search for distribution patterns.
+- Calculated the expected redshift range detected by a narrow band filter in order to construct the expected line of sight.
+
+* 2018: CMS Research
+- Conducted and improved multiple thermal experiments in an attempt to measure the gradient of a carbon fiber-based material for the inner silicon pixel detector in the LHC high luminosity phase.
+- Analyzed data from the thermal experiments to map the thermal gradient.
+- Designed, tested and analyzed ANSYS FEA simulations of the carbon fiber material and compared the simulation to thermal gradient and mechanical stress experiments carried out in the lab.
 
 Key Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Office Suite Software
+* Familiarity with Linux, Windows and MacOS
+* Python, Matlab, C++, Julia
+* Familiarity with data analysis and HPC
+* Familiarity with SLURM based servers and workflows
+* Familiarity with FEA based CAD software
 
-# Publications
-# ======
-#   <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
+<!---
+Publications
+ ======
+   <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+-->
 
-Talks
+Presentations & Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
