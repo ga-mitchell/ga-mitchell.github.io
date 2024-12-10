@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[pdf version](/files/George A. Mitchell CV.pd)
 {% include base_path %}
 
 Education
@@ -46,6 +46,18 @@ Key Skills
 * Familiarity with SLURM based servers and workflows
 * Familiarity with FEA based CAD software
 
+Course Projects
+======
+* Baryon Acoustic Oscillation Code
+  - Wrote a code to fit the BAO signature in the power spectra of the eBOSS
+DR12 using chi-squared minimization and presented results.
+* Void Cosmology Paper & Presentation
+  - Wrote a review article in APA format using Latex about the use of voids in cosmology and presented results.
+* Baryon Acoustic Oscillations in the Primordial Plasma
+  - Wrote a review article in APA format using LATEX about the creation of Baryon Acoustic Oscillations in the primordial plasma.
+* Charles W. Misner Presentation
+  - Presented a review and summary of the work and influence of Charles W. Misner in the field of physics.
+
 <!---
 Publications
  ======
@@ -60,7 +72,7 @@ Presentations & Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
@@ -68,4 +80,16 @@ Teaching
 
 Leadership Positions
 ======
-* Currently signed in to 43 different slack teams
+* 2020-2021: Leasing Agent
+  - Handled leasing duties and
+  oversaw community events
+and part-time staff.
+* 2019-2020: Taproom Manager Intern
+  - Supervisor and manager in charge of hiring and training 8 employees, organizing and analyzing 3 years of financial information, obtaining
+clients and heading creative projects.
+* 2016-2019: Student Supervisor
+  - Supervisor in charge of coordinating and training up to 20 students, serving food to a large clientele, cleaning and running various food stations
+
+Workshops & Certifications
+======
+* 2020-2021: NERSC AI for Science Bootcamp
