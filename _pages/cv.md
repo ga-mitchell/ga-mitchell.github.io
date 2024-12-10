@@ -17,25 +17,22 @@ Education
 Research Experience
 ======
 * 2021-2022: Dark Energy Spectroscopic Instrument (DESI)
-- Used the publicly available python code BAO_Fitter_dev to fit the Baryon Acoustic
-Oscillation (BAO) of the Power Spectra of the eBOSS DR12 spectroscopic data using python and made edits to perform a chi-squared minimization.
-- Measured power spectra on the NERSC Cori HPC using mock data for the upcoming
-DESI spectroscopic survey for use by the collaboration using the python package PyPower and performed reconstruction using PyRecon.
-- Performed fits of the BAO feature on the NERSC Cori HPC of these power spectra using the publicly available code BARRY and presented the results to the
-collaboration
+  - Used the publicly available python code BAO_Fitter_dev to fit the Baryon AcousticOscillation (BAO) of the Power Spectra of the eBOSS DR12 spectroscopic data using python and made edits to perform a chi-squared minimization.
+  - Measured power spectra on the NERSC Cori HPC using mock data for the upcoming DESI spectroscopic survey for use by the collaboration using the python package PyPower and performed reconstruction using PyRecon.
+  - Performed fits of the BAO feature on the NERSC Cori HPC of these power spectra using the publicly available code BARRY and presented the results to the collaboration
 
 * 2022: CMB Machine Learning
-  * Provided physics expertise in collaboration with the computer science department to create a code that uses spherical CNN to clean data from astrophysical surveys such as the PLANCK mission.
+  - Provided physics expertise in collaboration with the computer science department to create a code that uses spherical CNN to clean data from astrophysical surveys such as the PLANCK mission.
 
 * 2019-2020: Research Assistant
-- Used Python to analyze data from a cosmological simulation to study the distribution of protocluster galaxies and how such distributions might appear in real observational data.
-- Designed a gaussian convolution smoothing function to visualize the data and search for distribution patterns.
-- Calculated the expected redshift range detected by a narrow band filter in order to construct the expected line of sight.
+  - Used Python to analyze data from a cosmological simulation to study the distribution of protocluster galaxies and how such distributions might appear in real observational data.
+  - Designed a gaussian convolution smoothing function to visualize the data and search for distribution patterns.
+  - Calculated the expected redshift range detected by a narrow band filter in order to construct the expected line of sight.
 
 * 2018: CMS Research
-- Conducted and improved multiple thermal experiments in an attempt to measure the gradient of a carbon fiber-based material for the inner silicon pixel detector in the LHC high luminosity phase.
-- Analyzed data from the thermal experiments to map the thermal gradient.
-- Designed, tested and analyzed ANSYS FEA simulations of the carbon fiber material and compared the simulation to thermal gradient and mechanical stress experiments carried out in the lab.
+  - Conducted and improved multiple thermal experiments in an attempt to measure the gradient of a carbon fiber-based material for the inner silicon pixel detector in the LHC high luminosity phase.
+  - Analyzed data from the thermal experiments to map the thermal gradient.
+  - Designed, tested and analyzed ANSYS FEA simulations of the carbon fiber material and compared the simulation to thermal gradient and mechanical stress experiments carried out in the lab.
 
 Key Skills
 ======
