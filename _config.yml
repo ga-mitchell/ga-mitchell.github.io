@@ -24,7 +24,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "he/him/his"
   pronouns         : # example: "she/her"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "George A. Mitchell is an Adjunct Professor of Physics &
+                      Astronomy in the Houston area. He has a MSc from the University
+                      of Texas at Dallas, and his current research interests include:
+                      dark matter and energy, modified gravity, quantum gravity,
+                      void cosmology and machine learning in physics."
   location         : "Houston, TX"
   employer         : "Lone Star College"
   uri              : # URL
