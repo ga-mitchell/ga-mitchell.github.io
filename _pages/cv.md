@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[pdf version](files/George A. Mitchell CV.pd)
+[See PDF](files/George A. Mitchell CV.pd)
+
 {% include base_path %}
 
 Education
