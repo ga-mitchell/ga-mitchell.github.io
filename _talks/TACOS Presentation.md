@@ -9,4 +9,4 @@ location: "Dallas, TX SMU Campus"
 ---
 [Slides](https://ga-mitchell.github.io//files/TACOS.pdf)
 
-A short presentation on my current work at the time.
+A short presentation on my current work at the time at the [TACOS symposium](https://sites.google.com/view/texas-tacos/home?authuser=0).
