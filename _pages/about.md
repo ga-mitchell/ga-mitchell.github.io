@@ -18,4 +18,4 @@ You can learn more about my teaching and research experience using the menu item
 ### My Background
 -->
 
-Note: Parts of this website is still under construction and will be updated son.
+Note: Parts of this website is still under construction, and I plan to significantly expand it over the next few months.
