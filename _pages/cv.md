@@ -46,12 +46,12 @@ Key Skills
 
 Course Projects
 ======
-* Baryon Acoustic Oscillation Code
+* [Baryon Acoustic Oscillation Code](https://github.com/ga-mitchell/BAO_project/tree/main)
   - Wrote a code to fit the BAO signature in the power spectra of the eBOSS
 DR12 using chi-squared minimization and presented results.
-* Void Cosmology Paper & Presentation
+* [Void Cosmology Paper & Presentation](https://ga-mitchell.github.io//files/Cosmic_Voids__Probing_The_Universe_With_Nothing.pdf)
   - Wrote a review article in APA format using Latex about the use of voids in cosmology and presented results.
-* Baryon Acoustic Oscillations in the Primordial Plasma
+* [Baryon Acoustic Oscillations in the Primordial Plasma](https://ga-mitchell.github.io//files/Thermodynamics of the primordial fluid and BAO.pdf)
   - Wrote a review article in APA format using LATEX about the creation of Baryon Acoustic Oscillations in the primordial plasma.
 * Charles W. Misner Presentation
   - Presented a review and summary of the work and influence of Charles W. Misner in the field of physics.
