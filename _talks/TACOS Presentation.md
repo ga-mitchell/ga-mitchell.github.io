@@ -7,8 +7,6 @@ venue: ""
 date: 2022-10-01
 location: "Dallas, TX SMU Campus"
 ---
-[Slides](files/TACOS.pdf)
-
- <a href="./files/TACOS.PDF" target="blank">PdfFile</a>
+[Slides](https://ga-mitchell.github.io//files/TACOS.pdf)
 
 A short presentation on my current work at the time.

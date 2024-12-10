@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[See PDF](files/George A. Mitchell CV.pd)
+[See PDF](https://ga-mitchell.github.io//files/'George A. Mitchell CV.pdf')
 
 {% include base_path %}
 
